@@ -127,14 +127,6 @@
   padding: 10px 124px 12px 122px;
 }
 
-.u-section-2 .u-btn-2 {
-  border-style: solid;
-  text-transform: uppercase;
-  font-weight: 700;
-  margin: 20px auto 0 12px;
-  padding: 10px 132px;
-}
-
 @media (max-width: 767px) {
   .u-section-2 .u-group-1 {
     width: 540px;
@@ -164,10 +156,6 @@
   .u-section-2 .u-btn-1 {
     margin-left: 33px;
   }
-
-  .u-section-2 .u-btn-2 {
-    margin-left: 32px;
-  }
 }
 
 @media (max-width: 575px) {
@@ -194,10 +182,6 @@
   }
 
   .u-section-2 .u-btn-1 {
-    margin-left: -31px;
-  }
-
-  .u-section-2 .u-btn-2 {
     margin-left: -31px;
   }
 }.u-section-3 {
